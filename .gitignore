@@ -1,0 +1,12 @@
+# Ignore AI models and large files
+*.ckpt
+*.safetensors
+
+# Ignore ComfyUI and environments
+ComfyUI/
+venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
