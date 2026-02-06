@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+data/processed/*
+!data/processed/index.faiss
+!data/processed/docstore.pkl
+!.gitkeep
+.venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+data/raw/*.pdf
